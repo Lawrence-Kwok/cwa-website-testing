@@ -12,6 +12,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^6.3.7"
+    "astro": "^6.3.7",
+    "eslint": "^9.39.4",
+    "eslint-plugin-astro": "^1.7.0"
   }
 }
